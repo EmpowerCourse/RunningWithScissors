@@ -1,0 +1,7 @@
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\bin\Debug\RunningWithScissors.exe.config
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\bin\Debug\RunningWithScissors.exe
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\bin\Debug\RunningWithScissors.pdb
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\obj\Debug\RunningWithScissors.csprojResolveAssemblyReference.cache
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\obj\Debug\RunningWithScissors.csproj.CoreCompileInputs.cache
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\obj\Debug\RunningWithScissors.exe
+C:\projects\empower\running_with_scissors\RunningWithScissors\RunningWithScissors\obj\Debug\RunningWithScissors.pdb
